@@ -1,0 +1,11 @@
+{
+  "name": "pub-sub_rabbitmq",
+  "version": "1.0.0",
+  "description": "**Задача: Настройка Pub/Sub в RabbitMQ**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
