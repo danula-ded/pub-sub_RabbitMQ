@@ -3,8 +3,8 @@
 1. **Клонирование репозитория:**
 
    ```sh
-   git clone <репозиторий>
-   cd <папка_проекта>
+   git clone https://github.com/danula-ded/pub-sub_RabbitMQ.git
+   cd pub-sub_RabbitMQ
    ```
 
 2. **Запуск через Docker Compose:**
